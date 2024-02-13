@@ -1,0 +1,928 @@
+/*Данный код выглядит как таблица стилей CSS. Он определяет стили для различных разделов веб-сайта, включая заголовок,
+контент, нижний колонтитул, форму входа, форму регистрации, профиль клиента и многое другое */
+/* Он устанавливает цвета фона, размеры шрифта, отступы, поля и другие свойства для различных элементов */
+
+body {
+    background-image: url(../resources/images/back.jpg);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+
+
+/*
+    Header
+*/
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    border-bottom: 2px solid silver;
+}
+
+.header-section * {
+    margin: 0;
+    padding: 0;
+}
+
+.header-section ul, .menu ol {
+    list-style: none;
+}
+
+.header-section > ul {
+    display: flex;
+    justify-content: center;
+}
+
+
+.header-section > ul li .header-button input {
+    display: block;
+    background: black;
+    padding: 15px 10px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.header-section > ul li .header-logo input {
+    display: block;
+    background: black;
+    padding: 15px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    transition: all 0.3s ease;
+}
+
+
+.header-section li .header-button input:hover {
+    color: aliceblue;
+    transition: all 0.3s ease;
+}
+
+.header-section li .header-logo input:hover {
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.header-item input[type="submit"] {
+    background: black;
+    margin: 0;
+}
+
+.header-section {
+    display: flex;
+    align-items: center;
+}
+
+.header-item {
+    padding: 10px 5px;
+    font-size: 20px;
+    margin-left: 0;
+}
+
+
+.header-button input {
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    border: none;
+}
+
+.header-logo input {
+    color: aliceblue;
+    background-color: black;
+    font-size: 25px;
+    border: none;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.header-inner-item {
+    background: black;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.header-inner-item input {
+    background: black;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    padding: 10px;
+    text-transform: none;
+    border: none;
+}
+
+.header-inner-item input:hover {
+    color: aliceblue;
+    transition: all 0.3s ease;
+}
+
+.header-language {
+    margin: 15px 40px;
+    text-align: center;
+}
+
+.header-language p {
+    color: white;
+    text-align: left;
+}
+
+.header-language input {
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    outline: none;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+.header-language select {
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    outline: none;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+.header-language input[type="email"]:focus, .signup-input input[type="password"]:focus, .signup-input input[type="text"]:focus {
+    border: 1px solid #1D6CBA;
+}
+
+.header-language input[type="submit"] {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    background: white;
+    transition: .3s;
+}
+
+.header-language input[type="submit"]:hover {
+    background: aliceblue;
+}
+
+.header-select select {
+    padding: 10px;
+    width: 80px;
+    height: 45px;
+    color: white;
+    font-size: 15px;
+    background: black;
+    outline: none;
+    border: 1px solid #fff;
+}
+
+.header-select-section {
+    display: inline-block;
+}
+
+.header-select-item {
+    display: inline-block;
+}
+
+.header-search {
+    border: 1px solid #fff;
+}
+
+.inner-menu {
+    margin-right: 40px;
+}
+
+.inner-menu h2 {
+    height: 50px;
+    padding-top: 25px;
+    color: white;
+}
+
+.inner-menu h2:hover {
+    color: aliceblue;
+    transition: all 0.3s ease;
+}
+
+.inner-menu li ul {
+    position: absolute;
+    right: 30px;
+    min-width: 130px;
+    display: none;
+}
+
+.inner-menu li:hover > ul {
+    display: block;
+}
+
+.inner-menu li > ul li {
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+.inner-menu li > ul li input {
+    color: white;
+    background: black;
+    font-size: 15px;
+    width: 100%;
+    padding: 10px;
+    text-transform: none;
+}
+
+.inner-menu li > ul li input:hover {
+    color: aliceblue;
+    transition: all 0.3s ease;
+}
+
+
+/*
+    Content
+*/
+.content {
+    padding-bottom: 90px;
+}
+
+.content:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+* html .content {
+    height: 1%;
+}
+
+.content {
+    display: block;
+}
+
+
+/*
+    Main page
+*/
+.subscribe-button {
+    margin: 0;
+    padding: 0;
+    height: 20px;
+}
+
+.subscribe-button input[type="submit"] {
+    color: black;
+    font-weight: bold;
+    border: none;
+    background: white;
+    transition: .3s;
+}
+
+.subscribe-button input[type="submit"]:hover {
+    color: aliceblue;
+}
+
+
+.periodical-form {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: 3rem auto;
+}
+
+.periodical-table {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.periodical-table th, .periodical-table td {
+    text-align: center;
+    padding: 10px;
+}
+
+table.periodical-table tr:nth-child(1) {
+    background-color: black;
+    color: white;
+}
+
+table.periodical-table tr:nth-child(2) {
+    background-color: aliceblue;
+}
+
+table.periodical-table tr:nth-child(3) {
+    background-color: aliceblue;
+}
+
+table.periodical-table tr:nth-child(4) {
+    background-color: aliceblue;
+}
+
+table.periodical-table tr:nth-child(5) {
+    background-color: aliceblue;
+}
+
+table.periodical-table tr:nth-child(6) {
+    background-color: grey;
+}
+
+.periodical-table td {
+    width: 600px;
+    background-color: white;
+}
+
+.periodical-price {
+    color: red;
+}
+
+
+/*
+    Footer
+*/
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.footer-info {
+    width: 100%;
+}
+
+.footer-info h4 {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+/*
+    System info
+*/
+.system-info {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.system-info h3 {
+    margin-left: 50%;
+    text-align: center;
+}
+
+/*
+    Error info
+*/
+
+.error-info {
+    margin-top: 200px;
+    text-align: center;
+}
+
+.error-info h3 {
+    margin-left: 50%;
+    text-align: center;
+}
+
+
+/*
+    Login
+*/
+
+.login-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+.login-form h1 {
+    margin: 30px 100px;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+.login-input {
+    margin: 15px 40px;
+    text-align: center;
+}
+
+.login-input input {
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    outline: none;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+.login-input input[type="email"]:focus, .login-input input[type="password"]:focus {
+    border: 1px solid #1D6CBA;
+}
+
+.login-input input[type="submit"] {
+    margin-top: 20px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    background: white;
+    transition: .3s;
+}
+
+.login-input input[type="submit"]:hover {
+    background: aliceblue;
+}
+
+.login-form a {
+    display: block;
+    padding: 0 0 30px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.login-form a:hover {
+    color: aliceblue;
+}
+
+
+/*
+    Sign up
+*/
+.signup-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+.signup-form h1 {
+    margin: 30px 100px;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+.signup-input {
+    margin: 15px 40px;
+    text-align: center;
+}
+
+.signup-input p {
+    color: white;
+    text-align: left;
+}
+
+.signup-input input {
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    background: none;
+    outline: none;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+.signup-input select {
+    padding: 10px;
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    background: black;
+    outline: none;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+.signup-input input[type="email"]:focus, .signup-input input[type="password"]:focus, .signup-input input[type="text"]:focus {
+    border: 1px solid #1D6CBA;
+}
+
+.signup-input input[type="submit"] {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    background: white;
+    transition: .3s;
+}
+
+.signup-input input[type="submit"]:hover {
+    background: aliceblue;
+}
+
+.signup-form a {
+    display: block;
+    padding: 0 0 30px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    transition: .3s;
+}
+
+.signup-form a:hover {
+    color: aliceblue;
+}
+
+
+/*
+    Client profile
+*/
+.client-table {
+    margin: 130px auto;
+    min-width: 700px;
+    background: white;
+    border: 1px solid black;
+}
+
+.client-table th {
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.client-table tr:nth-child(1) {
+    font-size: 30px;
+    text-align: center;
+    background: black;
+    color: white;
+    height: 50px;
+}
+
+.client-table tr:nth-child(2) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.client-table tr:nth-child(3) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.client-table tr:nth-child(4) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.client-table tr:nth-child(5) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.client-table tr:nth-child(6) {
+    font-size: 20px;
+    text-align: center;
+}
+
+.client-table td {
+    text-align: center;
+    color: blue;
+}
+
+.edit-profile {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 5px;
+}
+
+.edit-profile input {
+    font-size: 20px;
+}
+
+.profile-name {
+    padding-bottom: 20px;
+}
+
+
+.client-table td {
+    padding-top: 20px;
+    padding-left: 180px;
+    text-align: left;
+}
+
+.client-table td input {
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.client-table td select {
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.client-table th input {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.subscription-table {
+    margin: 100px auto;
+    min-width: 500px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border-collapse: collapse;
+}
+
+
+.subscription-table th, .subscription-table td {
+    text-align: center;
+    padding: 10px 25px;
+    font-size: 15px;
+}
+
+.subscription-table th {
+    color: white;
+    background: black;
+}
+
+.subscription-table td {
+    border: 1px solid black;
+    color: black;
+    background: white;
+}
+
+
+.periodical-info-table {
+    margin: 130px auto;
+    min-width: 700px;
+    background: white;
+    border: 1px solid black;
+}
+
+.periodical-info-table th {
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.periodical-info-table tr:nth-child(1) {
+    font-size: 30px;
+    text-align: center;
+    background: black;
+    color: white;
+    height: 50px;
+}
+
+.periodical-info-table tr:nth-child(2) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(3) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(4) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(5) {
+    font-size: 30px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(6) {
+    font-size: 20px;
+    text-align: center;
+}
+
+.periodical-info-table td {
+    text-align: center;
+    color: blue;
+}
+
+.edit-profile {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 5px;
+}
+
+.edit-profile input {
+    font-size: 20px;
+}
+
+.profile-name {
+    padding-bottom: 20px;
+}
+
+
+.periodical-info-table td {
+    padding-top: 20px;
+    padding-left: 180px;
+    text-align: left;
+}
+
+.periodical-info-table td input {
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.periodical-info-table td select {
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.periodical-info-table th input {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.periodical-info-table {
+    margin: 50px auto;
+    background: white;
+    border: 1px solid black;
+}
+
+.periodical-info table {
+    max-width: 1000px;
+}
+
+.periodical-info table td {
+    text-align: center;
+}
+
+.periodical-info-table th {
+    padding-left: 25px;
+    padding-top: 30px;
+}
+
+.periodical-info-table tr:nth-child(1) {
+    font-size: 25px;
+    text-align: center;
+    background: black;
+    color: white;
+    height: 50px;
+}
+
+.periodical-info-table tr:nth-child(2) {
+    font-size: 25px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(3) {
+    font-size: 25px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(4) {
+    font-size: 25px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(5) {
+    font-size: 25px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(6) {
+    font-size: 25px;
+    text-align: left;
+}
+
+.periodical-info-table tr:nth-child(7) {
+    font-size: 25px;
+    text-align: left;
+}
+
+.subscription-type {
+    font-size: 25px;
+    text-align: left;
+}
+
+.subscription-type select {
+    margin-top: 15px;
+}
+
+
+.periodical-info-table td {
+    color: blue;
+}
+
+.edit-profile {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 5px;
+}
+
+.edit-profile input {
+    font-size: 20px;
+}
+
+.profile-name {
+    padding-bottom: 20px;
+}
+
+.periodical-info-table td {
+    padding-top: 20px;
+    padding-left: 180px;
+    text-align: left;
+}
+
+.periodical-info-table td input {
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.periodical-info-table td select {
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.periodical-info-table th input {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+.periodical-description {
+    background: whitesmoke;
+}
+
+.ds {
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    font-size: 28px;
+}
+
+.ds-info {
+    margin: 0 20px;
+    padding: 0 0 20px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.subscribe-continue {
+    margin-top: 100px;
+}
+
+
+.yb {
+    font-size: 25px;
+    text-align: left;
+}
+
+.yb td {
+    color: red;
+}
+
+.payment-container {
+    height: 50px;
+    margin: 0 auto 10px;
+}
+
+
+.client-profile-balance th, .client-profile-balance td {
+    text-align: left;
+    font-size: 30px;
+}
+
+.admin-page-delete th {
+    background: grey;
+}
+
+.admin-profile-gender th, .admin-profile-gender td {
+    padding-bottom: 20px;
+}
+
+
+.periodical-input1 th, .periodical-input1 td {
+    font-size: 30px;
+    text-align: left;
+}
+
+.periodical-input1 td textarea {
+    width: 250px;
+}

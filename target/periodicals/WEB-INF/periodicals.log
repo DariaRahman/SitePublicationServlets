@@ -1,0 +1,1564 @@
+2022-12-15 00:27:48,483 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 00:27:48,492 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 00:27:48,506 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 00:27:48,507 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 00:27:48,507 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 00:27:48,507 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 00:27:48,508 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 00:27:48,508 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 00:28:06,468 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 00:28:14,162 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 00:28:14,170 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 00:28:14,184 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 00:28:14,184 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 00:28:14,184 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 00:28:14,185 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 00:28:14,186 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 00:28:14,186 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 00:28:14,526 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 00:28:14,526 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 00:28:14,526 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:28:14,526 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 00:28:15,798 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 00:28:15,798 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 00:28:15,798 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:28:15,798 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 00:28:15,811 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 00:28:15,812 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 00:28:15,812 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:28:15,812 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 00:28:15,824 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 00:28:15,824 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 00:28:15,824 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:28:15,824 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 00:34:00,301 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] EncodingFilter starts
+2022-12-15 00:34:00,304 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request uri --> /periodicals/
+2022-12-15 00:34:00,304 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:34:00,305 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Filter finished
+2022-12-15 00:34:00,318 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] EncodingFilter starts
+2022-12-15 00:34:00,318 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 00:34:00,319 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:34:00,319 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Filter finished
+2022-12-15 00:34:00,323 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-10] EncodingFilter starts
+2022-12-15 00:34:00,324 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-10] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 00:34:00,324 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-10] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:34:00,324 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-10] Filter finished
+2022-12-15 00:34:00,324 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 00:34:00,324 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 00:34:00,325 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:34:00,325 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 00:34:00,332 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-2] EncodingFilter starts
+2022-12-15 00:34:00,332 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 00:34:00,332 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Request encoding = null, set encoding --> UTF-8
+2022-12-15 00:34:00,332 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Filter finished
+2022-12-15 01:50:28,715 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 01:50:35,264 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 01:50:35,270 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 01:50:35,280 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 01:50:35,280 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 01:50:35,280 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 01:50:35,280 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 01:50:35,281 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 01:50:35,281 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 01:50:35,636 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 01:50:35,637 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 01:50:35,637 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:50:35,637 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 01:50:36,639 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 01:50:36,640 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 01:50:36,640 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:50:36,640 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 01:50:36,652 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 01:50:36,652 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 01:50:36,653 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:50:36,653 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 01:50:36,659 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 01:50:36,660 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 01:50:36,660 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:50:36,660 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 01:50:41,904 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 01:50:41,904 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /periodicals/controller
+2022-12-15 01:50:41,904 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:50:41,904 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 01:50:41,905 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 01:50:41,905 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 01:50:41,906 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> signup
+2022-12-15 01:50:41,906 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 01:50:41,906 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 01:50:41,906 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 01:50:41,907 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> signup
+2022-12-15 01:50:41,907 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-7] SignupCommand starts
+2022-12-15 01:50:41,907 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-7] input method ==> GET
+2022-12-15 01:50:41,907 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /signup.jsp
+2022-12-15 01:50:41,907 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 01:51:12,053 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] EncodingFilter starts
+2022-12-15 01:51:12,054 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request uri --> /periodicals/controller
+2022-12-15 01:51:12,054 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:51:12,054 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Filter finished
+2022-12-15 01:51:12,054 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] AccessFilter is starting..
+2022-12-15 01:51:12,054 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] checkAccess...
+2022-12-15 01:51:12,055 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-9] commandName ==> signup
+2022-12-15 01:51:12,055 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] this command does not require access
+2022-12-15 01:51:12,055 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] access is allowed
+2022-12-15 01:51:12,055 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost starts
+2022-12-15 01:51:12,055 TRACE c.e.Controller [http-nio-8081-exec-9] command ==> signup
+2022-12-15 01:51:12,055 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-9] SignupCommand starts
+2022-12-15 01:51:12,055 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] input method ==> POST
+2022-12-15 01:51:12,055 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] email ==> dasharahman00@mail.ru
+2022-12-15 01:51:12,056 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] firstName ==> ?????
+2022-12-15 01:51:12,056 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] lastName ==> ??????
+2022-12-15 01:51:12,057 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] gender ==> FEMALE
+2022-12-15 01:51:12,058 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] password ==> rahman9396
+2022-12-15 01:51:12,587 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-9] Can`t add user
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Access denied for user 'testuser'@'localhost' (using password: YES))
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.addUser(MySqlUserDao.java:124) [classes/:?]
+	at com.ermanadary.web.command.SignupCommand.execute(SignupCommand.java:56) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLException: Access denied for user 'testuser'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 01:51:12,601 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost finished
+2022-12-15 01:51:43,448 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 01:51:50,367 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 01:51:50,374 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 01:51:50,384 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 01:51:50,384 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 01:51:50,385 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 01:51:50,385 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 01:51:50,386 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 01:51:50,386 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 01:51:50,720 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 01:51:50,720 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 01:51:50,720 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:51:50,720 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 01:51:51,770 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 01:51:51,770 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 01:51:51,770 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:51:51,770 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 01:51:51,782 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 01:51:51,782 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 01:51:51,782 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:51:51,782 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 01:51:54,279 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 01:51:54,279 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/controller
+2022-12-15 01:51:54,279 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:51:54,279 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 01:51:54,279 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] AccessFilter is starting..
+2022-12-15 01:51:54,279 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] checkAccess...
+2022-12-15 01:51:54,280 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-6] commandName ==> signup
+2022-12-15 01:51:54,280 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] this command does not require access
+2022-12-15 01:51:54,281 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] access is allowed
+2022-12-15 01:51:54,281 DEBUG c.e.Controller [http-nio-8081-exec-6] Controller#doGet starts
+2022-12-15 01:51:54,281 TRACE c.e.Controller [http-nio-8081-exec-6] command ==> signup
+2022-12-15 01:51:54,281 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-6] SignupCommand starts
+2022-12-15 01:51:54,282 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-6] input method ==> GET
+2022-12-15 01:51:54,282 TRACE c.e.Controller [http-nio-8081-exec-6] address ==> /signup.jsp
+2022-12-15 01:51:54,282 DEBUG c.e.Controller [http-nio-8081-exec-6] Controller#doGet finished
+2022-12-15 01:52:31,267 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] EncodingFilter starts
+2022-12-15 01:52:31,267 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request uri --> /periodicals/controller
+2022-12-15 01:52:31,268 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:52:31,268 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Filter finished
+2022-12-15 01:52:31,268 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] AccessFilter is starting..
+2022-12-15 01:52:31,268 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] checkAccess...
+2022-12-15 01:52:31,268 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-8] commandName ==> signup
+2022-12-15 01:52:31,268 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] this command does not require access
+2022-12-15 01:52:31,269 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] access is allowed
+2022-12-15 01:52:31,269 DEBUG c.e.Controller [http-nio-8081-exec-8] Controller#doGPost starts
+2022-12-15 01:52:31,269 TRACE c.e.Controller [http-nio-8081-exec-8] command ==> signup
+2022-12-15 01:52:31,269 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-8] SignupCommand starts
+2022-12-15 01:52:31,269 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-8] input method ==> POST
+2022-12-15 01:52:31,269 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-8] email ==> dasharahman009@gmail.com
+2022-12-15 01:52:31,269 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-8] firstName ==> darya
+2022-12-15 01:52:31,269 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-8] lastName ==> ;
+2022-12-15 01:52:31,271 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-8] gender ==> MALE
+2022-12-15 01:52:31,271 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-8] password ==> ;;;;
+2022-12-15 01:52:31,689 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-8] Can`t add user
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Access denied for user 'testuser'@'localhost' (using password: YES))
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.addUser(MySqlUserDao.java:124) [classes/:?]
+	at com.ermanadary.web.command.SignupCommand.execute(SignupCommand.java:56) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLException: Access denied for user 'testuser'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 01:52:31,702 DEBUG c.e.Controller [http-nio-8081-exec-8] Controller#doGPost finished
+2022-12-15 01:59:30,197 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 01:59:30,198 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/controller
+2022-12-15 01:59:30,198 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:59:30,198 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 01:59:30,198 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] AccessFilter is starting..
+2022-12-15 01:59:30,198 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] checkAccess...
+2022-12-15 01:59:30,199 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-1] commandName ==> login
+2022-12-15 01:59:30,199 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] this command does not require access
+2022-12-15 01:59:30,199 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] access is allowed
+2022-12-15 01:59:30,199 DEBUG c.e.Controller [http-nio-8081-exec-1] Controller#doGet starts
+2022-12-15 01:59:30,199 TRACE c.e.Controller [http-nio-8081-exec-1] command ==> login
+2022-12-15 01:59:30,199 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-1] LoginCommand starts
+2022-12-15 01:59:30,199 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-1] email ==> null
+2022-12-15 01:59:30,199 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-1] password ==> null
+2022-12-15 01:59:30,199 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-1] Login/password cannot be empty
+2022-12-15 01:59:30,199 TRACE c.e.Controller [http-nio-8081-exec-1] address ==> /login.jsp
+2022-12-15 01:59:30,200 DEBUG c.e.Controller [http-nio-8081-exec-1] Controller#doGet finished
+2022-12-15 01:59:30,307 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-2] EncodingFilter starts
+2022-12-15 01:59:30,307 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 01:59:30,308 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:59:30,308 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Filter finished
+2022-12-15 01:59:47,194 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-3] EncodingFilter starts
+2022-12-15 01:59:47,194 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-3] Request uri --> /periodicals/controller
+2022-12-15 01:59:47,195 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-3] Request encoding = null, set encoding --> UTF-8
+2022-12-15 01:59:47,195 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-3] Filter finished
+2022-12-15 01:59:47,195 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] AccessFilter is starting..
+2022-12-15 01:59:47,195 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] checkAccess...
+2022-12-15 01:59:47,195 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-3] commandName ==> login
+2022-12-15 01:59:47,195 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] this command does not require access
+2022-12-15 01:59:47,196 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] access is allowed
+2022-12-15 01:59:47,196 DEBUG c.e.Controller [http-nio-8081-exec-3] Controller#doGPost starts
+2022-12-15 01:59:47,196 TRACE c.e.Controller [http-nio-8081-exec-3] command ==> login
+2022-12-15 01:59:47,196 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-3] LoginCommand starts
+2022-12-15 01:59:47,196 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-3] email ==> testuser@gmail.com
+2022-12-15 01:59:47,196 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-3] password ==> testpass
+2022-12-15 01:59:47,222 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-3] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Access denied for user 'testuser'@'localhost' (using password: YES))
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLException: Access denied for user 'testuser'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 01:59:47,223 DEBUG c.e.Controller [http-nio-8081-exec-3] Controller#doGPost finished
+2022-12-15 02:09:09,542 DEBUG c.e.w.f.EncodingFilter [Catalina-utility-1] Filter encoding destroy
+2022-12-15 02:09:12,414 DEBUG c.e.w.c.CommandContainer [Catalina-utility-1] Command container was successfully initialized
+2022-12-15 02:09:12,430 TRACE c.e.w.c.CommandContainer [Catalina-utility-1] Number of commands --> 21
+2022-12-15 02:09:12,435 DEBUG c.e.w.f.EncodingFilter [Catalina-utility-1] Filter initialization starts
+2022-12-15 02:09:12,435 TRACE c.e.w.f.EncodingFilter [Catalina-utility-1] encoding from config ==> UTF-8
+2022-12-15 02:09:12,436 DEBUG c.e.w.f.EncodingFilter [Catalina-utility-1] Filter initialization finished
+2022-12-15 02:09:12,437 DEBUG c.e.w.f.AccessFilter [Catalina-utility-1] AccessFilter init...
+2022-12-15 02:09:12,453 TRACE c.e.w.f.AccessFilter [Catalina-utility-1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 02:09:12,453 DEBUG c.e.w.f.AccessFilter [Catalina-utility-1] AccessFilter init finished
+2022-12-15 03:25:44,487 DEBUG c.e.w.f.EncodingFilter [Thread-1] Filter encoding destroy
+2022-12-15 03:33:52,124 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 03:33:52,133 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 03:33:52,144 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 03:33:52,144 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 03:33:52,144 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 03:33:52,145 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 03:33:52,145 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 03:33:52,146 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 03:33:52,432 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 03:33:52,432 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 03:33:52,433 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:33:52,433 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 03:33:53,722 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 03:33:53,722 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 03:33:53,722 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:33:53,723 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 03:33:53,756 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 03:33:53,757 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 03:33:53,757 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:33:53,757 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 03:33:53,799 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 03:33:53,800 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 03:33:53,800 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:33:53,800 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 03:38:25,769 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 03:38:31,146 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 03:38:31,154 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 03:38:31,164 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 03:38:31,165 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 03:38:31,165 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 03:38:31,165 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 03:38:31,166 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 03:38:31,166 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 03:38:31,383 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 03:38:31,383 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 03:38:31,383 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:38:31,384 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 03:38:32,446 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 03:38:32,446 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 03:38:32,447 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:38:32,447 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 03:38:32,458 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 03:38:32,459 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 03:38:32,459 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:38:32,459 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 03:38:32,468 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 03:38:32,469 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 03:38:32,469 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:38:32,469 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 03:38:35,805 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 03:38:35,806 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /periodicals/controller
+2022-12-15 03:38:35,806 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:38:35,806 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 03:38:35,806 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 03:38:35,807 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 03:38:35,808 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> signup
+2022-12-15 03:38:35,808 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 03:38:35,808 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 03:38:35,808 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 03:38:35,808 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> signup
+2022-12-15 03:38:35,809 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-7] SignupCommand starts
+2022-12-15 03:38:35,809 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-7] input method ==> GET
+2022-12-15 03:38:35,809 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /signup.jsp
+2022-12-15 03:38:35,809 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 03:38:57,137 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] EncodingFilter starts
+2022-12-15 03:38:57,138 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request uri --> /periodicals/controller
+2022-12-15 03:38:57,138 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request encoding = null, set encoding --> UTF-8
+2022-12-15 03:38:57,138 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Filter finished
+2022-12-15 03:38:57,138 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] AccessFilter is starting..
+2022-12-15 03:38:57,138 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] checkAccess...
+2022-12-15 03:38:57,139 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-9] commandName ==> signup
+2022-12-15 03:38:57,139 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] this command does not require access
+2022-12-15 03:38:57,139 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] access is allowed
+2022-12-15 03:38:57,139 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost starts
+2022-12-15 03:38:57,140 TRACE c.e.Controller [http-nio-8081-exec-9] command ==> signup
+2022-12-15 03:38:57,140 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-9] SignupCommand starts
+2022-12-15 03:38:57,140 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] input method ==> POST
+2022-12-15 03:38:57,140 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] email ==> dasha@gmail.com
+2022-12-15 03:38:57,140 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] firstName ==> ?????
+2022-12-15 03:38:57,141 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] lastName ==> ??????
+2022-12-15 03:38:57,142 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] gender ==> FEMALE
+2022-12-15 03:38:57,142 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] password ==> 222
+2022-12-15 03:38:57,475 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-9] Can`t add user
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.addUser(MySqlUserDao.java:124) [classes/:?]
+	at com.ermanadary.web.command.SignupCommand.execute(SignupCommand.java:56) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 03:38:57,489 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost finished
+2022-12-15 04:23:12,105 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 04:23:18,759 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 04:23:18,767 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 04:23:18,777 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 04:23:18,777 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 04:23:18,777 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 04:23:18,778 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 04:23:18,778 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 04:23:18,778 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 04:23:19,103 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:23:19,103 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 04:23:19,103 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:23:19,103 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:23:20,357 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:23:20,358 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 04:23:20,358 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:23:20,358 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:23:20,361 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:23:20,362 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 04:23:20,362 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:23:20,362 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:23:20,362 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:23:20,362 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 04:23:20,363 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:23:20,363 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:23:22,182 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 04:23:22,182 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /periodicals/controller
+2022-12-15 04:23:22,182 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:23:22,183 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 04:23:22,183 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 04:23:22,183 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 04:23:22,184 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> login
+2022-12-15 04:23:22,184 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 04:23:22,184 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 04:23:22,184 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 04:23:22,185 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> login
+2022-12-15 04:23:22,185 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-7] LoginCommand starts
+2022-12-15 04:23:22,185 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] email ==> null
+2022-12-15 04:23:22,185 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] password ==> null
+2022-12-15 04:23:22,185 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-7] Login/password cannot be empty
+2022-12-15 04:23:22,185 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /login.jsp
+2022-12-15 04:23:22,185 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 04:23:54,902 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:23:54,903 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/controller
+2022-12-15 04:23:54,903 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:23:54,903 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:23:54,903 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] AccessFilter is starting..
+2022-12-15 04:23:54,903 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] checkAccess...
+2022-12-15 04:23:54,904 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-1] commandName ==> login
+2022-12-15 04:23:54,904 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] this command does not require access
+2022-12-15 04:23:54,904 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] access is allowed
+2022-12-15 04:23:54,904 DEBUG c.e.Controller [http-nio-8081-exec-1] Controller#doGPost starts
+2022-12-15 04:23:54,904 TRACE c.e.Controller [http-nio-8081-exec-1] command ==> login
+2022-12-15 04:23:54,904 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-1] LoginCommand starts
+2022-12-15 04:23:54,904 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-1] email ==> admin@gmail.com
+2022-12-15 04:23:54,905 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-1] password ==> admin
+2022-12-15 04:23:55,350 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-1] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:23:55,366 DEBUG c.e.Controller [http-nio-8081-exec-1] Controller#doGPost finished
+2022-12-15 04:29:20,205 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 04:29:26,408 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 04:29:26,415 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 04:29:26,425 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 04:29:26,426 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 04:29:26,426 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 04:29:26,426 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 04:29:26,427 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 04:29:26,427 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 04:29:26,793 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:29:26,793 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /periodicals/
+2022-12-15 04:29:26,794 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:29:26,794 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:29:27,929 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:29:27,929 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /periodicals/
+2022-12-15 04:29:27,929 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:29:27,929 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:29:27,933 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:29:27,933 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/resources/images/back.jpg
+2022-12-15 04:29:27,933 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:29:27,933 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:29:27,933 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:29:27,933 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/style/stylesheet.css
+2022-12-15 04:29:27,935 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:29:27,935 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:29:31,432 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 04:29:31,433 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /periodicals/controller
+2022-12-15 04:29:31,433 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:29:31,433 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 04:29:31,433 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 04:29:31,434 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 04:29:31,434 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> signup
+2022-12-15 04:29:31,435 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 04:29:31,435 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 04:29:31,435 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 04:29:31,435 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> signup
+2022-12-15 04:29:31,435 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-7] SignupCommand starts
+2022-12-15 04:29:31,435 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-7] input method ==> GET
+2022-12-15 04:29:31,435 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /signup.jsp
+2022-12-15 04:29:31,435 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 04:29:48,018 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] EncodingFilter starts
+2022-12-15 04:29:48,019 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request uri --> /periodicals/controller
+2022-12-15 04:29:48,019 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:29:48,019 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Filter finished
+2022-12-15 04:29:48,020 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] AccessFilter is starting..
+2022-12-15 04:29:48,020 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] checkAccess...
+2022-12-15 04:29:48,020 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-9] commandName ==> signup
+2022-12-15 04:29:48,020 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] this command does not require access
+2022-12-15 04:29:48,021 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] access is allowed
+2022-12-15 04:29:48,021 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost starts
+2022-12-15 04:29:48,021 TRACE c.e.Controller [http-nio-8081-exec-9] command ==> signup
+2022-12-15 04:29:48,021 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-9] SignupCommand starts
+2022-12-15 04:29:48,021 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] input method ==> POST
+2022-12-15 04:29:48,021 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] email ==> s@mail.ru
+2022-12-15 04:29:48,021 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] firstName ==> s
+2022-12-15 04:29:48,021 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] lastName ==> ss
+2022-12-15 04:29:48,023 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] gender ==> FEMALE
+2022-12-15 04:29:48,023 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-9] password ==> ss
+2022-12-15 04:29:48,322 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-9] Can`t add user
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.addUser(MySqlUserDao.java:124) [classes/:?]
+	at com.ermanadary.web.command.SignupCommand.execute(SignupCommand.java:56) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:29:48,346 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost finished
+2022-12-15 04:33:52,639 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-3] EncodingFilter starts
+2022-12-15 04:33:52,641 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-3] Request uri --> /periodicals/controller
+2022-12-15 04:33:52,641 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-3] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:33:52,642 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-3] Filter finished
+2022-12-15 04:33:52,642 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] AccessFilter is starting..
+2022-12-15 04:33:52,642 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] checkAccess...
+2022-12-15 04:33:52,642 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-3] commandName ==> mainPage
+2022-12-15 04:33:52,642 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] this command does not require access
+2022-12-15 04:33:52,643 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-3] access is allowed
+2022-12-15 04:33:52,643 DEBUG c.e.Controller [http-nio-8081-exec-3] Controller#doGet starts
+2022-12-15 04:33:52,643 TRACE c.e.Controller [http-nio-8081-exec-3] command ==> mainPage
+2022-12-15 04:33:52,643 DEBUG c.e.w.c.MainPageCommand [http-nio-8081-exec-3] MainPageCommand starts
+2022-12-15 04:33:52,688 ERROR c.e.d.i.m.MySqlPeriodicalDao [http-nio-8081-exec-3] Can`t find all periodicals
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlPeriodicalDao.getConnection(MySqlPeriodicalDao.java:225) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlPeriodicalDao.findAllPeriodicals(MySqlPeriodicalDao.java:33) [classes/:?]
+	at com.ermanadary.web.command.MainPageCommand.execute(MainPageCommand.java:34) [classes/:?]
+	at com.ermanadary.Controller.doGet(Controller.java:33) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:670) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:33:52,690 DEBUG c.e.Controller [http-nio-8081-exec-3] Controller#doGet finished
+2022-12-15 04:34:15,636 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:34:15,637 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /periodicals/controller
+2022-12-15 04:34:15,637 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:34:15,637 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:34:15,637 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] AccessFilter is starting..
+2022-12-15 04:34:15,637 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] checkAccess...
+2022-12-15 04:34:15,638 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-6] commandName ==> login
+2022-12-15 04:34:15,638 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] this command does not require access
+2022-12-15 04:34:15,638 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] access is allowed
+2022-12-15 04:34:15,638 DEBUG c.e.Controller [http-nio-8081-exec-6] Controller#doGet starts
+2022-12-15 04:34:15,638 TRACE c.e.Controller [http-nio-8081-exec-6] command ==> login
+2022-12-15 04:34:15,638 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-6] LoginCommand starts
+2022-12-15 04:34:15,638 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-6] email ==> null
+2022-12-15 04:34:15,638 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-6] password ==> null
+2022-12-15 04:34:15,638 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-6] Login/password cannot be empty
+2022-12-15 04:34:15,639 TRACE c.e.Controller [http-nio-8081-exec-6] address ==> /login.jsp
+2022-12-15 04:34:15,639 DEBUG c.e.Controller [http-nio-8081-exec-6] Controller#doGet finished
+2022-12-15 04:34:20,796 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:34:20,797 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /periodicals/signup.jsp
+2022-12-15 04:34:20,798 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:34:20,798 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:34:25,244 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 04:34:25,245 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /periodicals/controller
+2022-12-15 04:34:25,245 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:34:25,245 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 04:34:25,245 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 04:34:25,246 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 04:34:25,246 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> login
+2022-12-15 04:34:25,246 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 04:34:25,246 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 04:34:25,247 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 04:34:25,247 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> login
+2022-12-15 04:34:25,247 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-7] LoginCommand starts
+2022-12-15 04:34:25,247 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] email ==> null
+2022-12-15 04:34:25,247 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] password ==> null
+2022-12-15 04:34:25,247 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-7] Login/password cannot be empty
+2022-12-15 04:34:25,247 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /login.jsp
+2022-12-15 04:34:25,247 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 04:34:42,370 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] EncodingFilter starts
+2022-12-15 04:34:42,371 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request uri --> /periodicals/controller
+2022-12-15 04:34:42,371 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:34:42,371 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Filter finished
+2022-12-15 04:34:42,371 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] AccessFilter is starting..
+2022-12-15 04:34:42,371 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] checkAccess...
+2022-12-15 04:34:42,371 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-8] commandName ==> login
+2022-12-15 04:34:42,371 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] this command does not require access
+2022-12-15 04:34:42,372 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] access is allowed
+2022-12-15 04:34:42,372 DEBUG c.e.Controller [http-nio-8081-exec-8] Controller#doGPost starts
+2022-12-15 04:34:42,372 TRACE c.e.Controller [http-nio-8081-exec-8] command ==> login
+2022-12-15 04:34:42,372 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-8] LoginCommand starts
+2022-12-15 04:34:42,372 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-8] email ==> eee@mail.ru
+2022-12-15 04:34:42,372 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-8] password ==> eee
+2022-12-15 04:34:42,388 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-8] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:34:42,389 DEBUG c.e.Controller [http-nio-8081-exec-8] Controller#doGPost finished
+2022-12-15 04:39:04,361 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 04:39:10,846 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(4)-127.0.0.1] Command container was successfully initialized
+2022-12-15 04:39:10,854 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(4)-127.0.0.1] Number of commands --> 21
+2022-12-15 04:39:10,864 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(4)-127.0.0.1] Filter initialization starts
+2022-12-15 04:39:10,865 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(4)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 04:39:10,865 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(4)-127.0.0.1] Filter initialization finished
+2022-12-15 04:39:10,865 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(4)-127.0.0.1] AccessFilter init...
+2022-12-15 04:39:10,866 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(4)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 04:39:10,866 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(4)-127.0.0.1] AccessFilter init finished
+2022-12-15 04:39:11,195 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:39:11,195 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /null/
+2022-12-15 04:39:11,195 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:39:11,195 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:39:12,261 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:39:12,261 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /null/
+2022-12-15 04:39:12,261 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:39:12,261 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:39:12,271 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:39:12,272 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /null/style/stylesheet.css
+2022-12-15 04:39:12,272 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:39:12,272 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:39:12,282 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:39:12,282 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /null/resources/images/back.jpg
+2022-12-15 04:39:12,282 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:39:12,283 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:39:15,450 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 04:39:15,451 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /null/controller
+2022-12-15 04:39:15,451 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:39:15,451 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 04:39:15,451 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 04:39:15,452 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 04:39:15,453 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> login
+2022-12-15 04:39:15,453 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 04:39:15,453 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 04:39:15,453 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 04:39:15,453 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> login
+2022-12-15 04:39:15,454 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-7] LoginCommand starts
+2022-12-15 04:39:15,454 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] email ==> null
+2022-12-15 04:39:15,454 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] password ==> null
+2022-12-15 04:39:15,454 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-7] Login/password cannot be empty
+2022-12-15 04:39:15,454 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /login.jsp
+2022-12-15 04:39:15,454 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 04:40:14,134 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] EncodingFilter starts
+2022-12-15 04:40:14,135 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request uri --> /null/controller
+2022-12-15 04:40:14,135 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:40:14,136 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Filter finished
+2022-12-15 04:40:14,136 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] AccessFilter is starting..
+2022-12-15 04:40:14,136 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] checkAccess...
+2022-12-15 04:40:14,136 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-9] commandName ==> login
+2022-12-15 04:40:14,136 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] this command does not require access
+2022-12-15 04:40:14,136 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] access is allowed
+2022-12-15 04:40:14,136 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost starts
+2022-12-15 04:40:14,136 TRACE c.e.Controller [http-nio-8081-exec-9] command ==> login
+2022-12-15 04:40:14,137 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-9] LoginCommand starts
+2022-12-15 04:40:14,137 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-9] email ==> admin@gmail.com
+2022-12-15 04:40:14,137 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-9] password ==> admin
+2022-12-15 04:40:14,482 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-9] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:40:14,496 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost finished
+2022-12-15 04:40:35,062 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-2] EncodingFilter starts
+2022-12-15 04:40:35,063 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Request uri --> /null/signup.jsp
+2022-12-15 04:40:35,063 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:40:35,063 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-2] Filter finished
+2022-12-15 04:40:54,324 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:40:54,324 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /null/controller
+2022-12-15 04:40:54,325 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:40:54,325 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:40:54,325 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-4] AccessFilter is starting..
+2022-12-15 04:40:54,325 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-4] checkAccess...
+2022-12-15 04:40:54,325 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-4] commandName ==> signup
+2022-12-15 04:40:54,325 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-4] this command does not require access
+2022-12-15 04:40:54,325 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-4] access is allowed
+2022-12-15 04:40:54,326 DEBUG c.e.Controller [http-nio-8081-exec-4] Controller#doGPost starts
+2022-12-15 04:40:54,326 TRACE c.e.Controller [http-nio-8081-exec-4] command ==> signup
+2022-12-15 04:40:54,326 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-4] SignupCommand starts
+2022-12-15 04:40:54,326 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-4] input method ==> POST
+2022-12-15 04:40:54,326 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-4] email ==> dasha@gmail.cpm
+2022-12-15 04:40:54,326 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-4] firstName ==> daria
+2022-12-15 04:40:54,326 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-4] lastName ==> rahman
+2022-12-15 04:40:54,327 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-4] gender ==> FEMALE
+2022-12-15 04:40:54,328 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-4] password ==> 123
+2022-12-15 04:40:54,347 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-4] Can`t add user
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.addUser(MySqlUserDao.java:124) [classes/:?]
+	at com.ermanadary.web.command.SignupCommand.execute(SignupCommand.java:56) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:40:54,348 DEBUG c.e.Controller [http-nio-8081-exec-4] Controller#doGPost finished
+2022-12-15 04:44:07,042 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 04:44:13,189 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 04:44:13,196 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 04:44:13,205 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 04:44:13,205 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 04:44:13,205 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 04:44:13,206 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 04:44:13,206 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 04:44:13,206 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 04:44:13,614 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:44:13,614 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /null/
+2022-12-15 04:44:13,614 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:44:13,614 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:44:14,624 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:44:14,625 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /null/
+2022-12-15 04:44:14,625 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:44:14,625 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:44:16,856 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:44:16,856 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /null/controller
+2022-12-15 04:44:16,857 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:44:16,857 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:44:16,857 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] AccessFilter is starting..
+2022-12-15 04:44:16,857 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] checkAccess...
+2022-12-15 04:44:16,858 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-5] commandName ==> signup
+2022-12-15 04:44:16,858 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] this command does not require access
+2022-12-15 04:44:16,858 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] access is allowed
+2022-12-15 04:44:16,858 DEBUG c.e.Controller [http-nio-8081-exec-5] Controller#doGet starts
+2022-12-15 04:44:16,859 TRACE c.e.Controller [http-nio-8081-exec-5] command ==> signup
+2022-12-15 04:44:16,859 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-5] SignupCommand starts
+2022-12-15 04:44:16,859 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-5] input method ==> GET
+2022-12-15 04:44:16,859 TRACE c.e.Controller [http-nio-8081-exec-5] address ==> /signup.jsp
+2022-12-15 04:44:16,859 DEBUG c.e.Controller [http-nio-8081-exec-5] Controller#doGet finished
+2022-12-15 04:44:26,061 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:44:26,062 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /null/controller
+2022-12-15 04:44:26,062 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:44:26,062 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:44:26,062 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] AccessFilter is starting..
+2022-12-15 04:44:26,063 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] checkAccess...
+2022-12-15 04:44:26,063 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-6] commandName ==> mainPage
+2022-12-15 04:44:26,063 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] this command does not require access
+2022-12-15 04:44:26,063 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-6] access is allowed
+2022-12-15 04:44:26,063 DEBUG c.e.Controller [http-nio-8081-exec-6] Controller#doGet starts
+2022-12-15 04:44:26,063 TRACE c.e.Controller [http-nio-8081-exec-6] command ==> mainPage
+2022-12-15 04:44:26,063 DEBUG c.e.w.c.MainPageCommand [http-nio-8081-exec-6] MainPageCommand starts
+2022-12-15 04:44:26,390 ERROR c.e.d.i.m.MySqlPeriodicalDao [http-nio-8081-exec-6] Can`t find all periodicals
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlPeriodicalDao.getConnection(MySqlPeriodicalDao.java:225) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlPeriodicalDao.findAllPeriodicals(MySqlPeriodicalDao.java:33) [classes/:?]
+	at com.ermanadary.web.command.MainPageCommand.execute(MainPageCommand.java:34) [classes/:?]
+	at com.ermanadary.Controller.doGet(Controller.java:33) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:670) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:44:26,404 DEBUG c.e.Controller [http-nio-8081-exec-6] Controller#doGet finished
+2022-12-15 04:45:35,494 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 04:45:41,496 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 04:45:41,503 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 04:45:41,513 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 04:45:41,513 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 04:45:41,513 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 04:45:41,514 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 04:45:41,514 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 04:45:41,515 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 04:45:41,971 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:45:41,971 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /null/
+2022-12-15 04:45:41,972 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:45:41,972 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:45:43,178 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:45:43,178 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /null/
+2022-12-15 04:45:43,178 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:45:43,179 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:45:51,266 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:45:51,267 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /null/controller
+2022-12-15 04:45:51,267 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:45:51,267 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:45:51,267 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] AccessFilter is starting..
+2022-12-15 04:45:51,267 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] checkAccess...
+2022-12-15 04:45:51,268 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-5] commandName ==> login
+2022-12-15 04:45:51,268 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] this command does not require access
+2022-12-15 04:45:51,269 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] access is allowed
+2022-12-15 04:45:51,269 DEBUG c.e.Controller [http-nio-8081-exec-5] Controller#doGet starts
+2022-12-15 04:45:51,269 TRACE c.e.Controller [http-nio-8081-exec-5] command ==> login
+2022-12-15 04:45:51,269 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-5] LoginCommand starts
+2022-12-15 04:45:51,269 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-5] email ==> null
+2022-12-15 04:45:51,270 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-5] password ==> null
+2022-12-15 04:45:51,270 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-5] Login/password cannot be empty
+2022-12-15 04:45:51,270 TRACE c.e.Controller [http-nio-8081-exec-5] address ==> /login.jsp
+2022-12-15 04:45:51,270 DEBUG c.e.Controller [http-nio-8081-exec-5] Controller#doGet finished
+2022-12-15 04:45:51,370 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:45:51,370 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /null/style/stylesheet.css
+2022-12-15 04:45:51,371 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:45:51,371 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:45:51,384 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 04:45:51,384 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /null/resources/images/back.jpg
+2022-12-15 04:45:51,385 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:45:51,385 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 04:46:09,396 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] EncodingFilter starts
+2022-12-15 04:46:09,397 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request uri --> /null/controller
+2022-12-15 04:46:09,397 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:46:09,397 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-8] Filter finished
+2022-12-15 04:46:09,397 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] AccessFilter is starting..
+2022-12-15 04:46:09,397 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] checkAccess...
+2022-12-15 04:46:09,398 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-8] commandName ==> login
+2022-12-15 04:46:09,398 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] this command does not require access
+2022-12-15 04:46:09,398 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-8] access is allowed
+2022-12-15 04:46:09,398 DEBUG c.e.Controller [http-nio-8081-exec-8] Controller#doGPost starts
+2022-12-15 04:46:09,398 TRACE c.e.Controller [http-nio-8081-exec-8] command ==> login
+2022-12-15 04:46:09,398 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-8] LoginCommand starts
+2022-12-15 04:46:09,398 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-8] email ==> dasha@gmail.com
+2022-12-15 04:46:09,399 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-8] password ==> ss
+2022-12-15 04:46:09,679 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-8] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:46:09,689 DEBUG c.e.Controller [http-nio-8081-exec-8] Controller#doGPost finished
+2022-12-15 04:47:34,514 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 04:56:18,400 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 04:56:18,409 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 04:56:18,420 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 04:56:18,420 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 04:56:18,420 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 04:56:18,421 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 04:56:18,421 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 04:56:18,421 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 04:56:18,709 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:56:18,709 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /null/
+2022-12-15 04:56:18,710 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:56:18,710 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:56:19,852 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 04:56:19,853 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /null/
+2022-12-15 04:56:19,853 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:56:19,853 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 04:56:19,867 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] EncodingFilter starts
+2022-12-15 04:56:19,868 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 04:56:19,868 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /null/style/stylesheet.css
+2022-12-15 04:56:19,868 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request uri --> /null/resources/images/back.jpg
+2022-12-15 04:56:19,868 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:56:19,868 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-6] Filter finished
+2022-12-15 04:56:19,868 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:56:19,869 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 04:56:29,197 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 04:56:29,198 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /null/controller
+2022-12-15 04:56:29,198 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:56:29,198 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 04:56:29,199 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 04:56:29,199 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 04:56:29,200 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> signup
+2022-12-15 04:56:29,200 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 04:56:29,201 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 04:56:29,201 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet starts
+2022-12-15 04:56:29,201 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> signup
+2022-12-15 04:56:29,201 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-7] SignupCommand starts
+2022-12-15 04:56:29,201 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-7] input method ==> GET
+2022-12-15 04:56:29,201 TRACE c.e.Controller [http-nio-8081-exec-7] address ==> /signup.jsp
+2022-12-15 04:56:29,202 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGet finished
+2022-12-15 04:57:02,234 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 04:57:02,235 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /null/controller
+2022-12-15 04:57:02,235 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 04:57:02,235 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 04:57:02,235 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] AccessFilter is starting..
+2022-12-15 04:57:02,235 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] checkAccess...
+2022-12-15 04:57:02,236 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-1] commandName ==> signup
+2022-12-15 04:57:02,236 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] this command does not require access
+2022-12-15 04:57:02,236 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-1] access is allowed
+2022-12-15 04:57:02,236 DEBUG c.e.Controller [http-nio-8081-exec-1] Controller#doGPost starts
+2022-12-15 04:57:02,236 TRACE c.e.Controller [http-nio-8081-exec-1] command ==> signup
+2022-12-15 04:57:02,237 DEBUG c.e.w.c.SignupCommand [http-nio-8081-exec-1] SignupCommand starts
+2022-12-15 04:57:02,237 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-1] input method ==> POST
+2022-12-15 04:57:02,237 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-1] email ==> dasha@gmail.com
+2022-12-15 04:57:02,237 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-1] firstName ==> ?????
+2022-12-15 04:57:02,237 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-1] lastName ==> ??????
+2022-12-15 04:57:02,238 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-1] gender ==> FEMALE
+2022-12-15 04:57:02,238 TRACE c.e.w.c.SignupCommand [http-nio-8081-exec-1] password ==> 1234567
+2022-12-15 04:57:02,655 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-1] Can`t add user
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.addUser(MySqlUserDao.java:124) [classes/:?]
+	at com.ermanadary.web.command.SignupCommand.execute(SignupCommand.java:56) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 04:57:02,666 DEBUG c.e.Controller [http-nio-8081-exec-1] Controller#doGPost finished
+2022-12-15 05:00:29,405 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
+2022-12-15 05:00:35,305 DEBUG c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Command container was successfully initialized
+2022-12-15 05:00:35,312 TRACE c.e.w.c.CommandContainer [RMI TCP Connection(2)-127.0.0.1] Number of commands --> 21
+2022-12-15 05:00:35,321 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization starts
+2022-12-15 05:00:35,321 TRACE c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] encoding from config ==> UTF-8
+2022-12-15 05:00:35,321 DEBUG c.e.w.f.EncodingFilter [RMI TCP Connection(2)-127.0.0.1] Filter initialization finished
+2022-12-15 05:00:35,321 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init...
+2022-12-15 05:00:35,322 TRACE c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] out of control commands ==> [login, signup, welcomePage, mainPage, logout, noCommand]
+2022-12-15 05:00:35,322 DEBUG c.e.w.f.AccessFilter [RMI TCP Connection(2)-127.0.0.1] AccessFilter init finished
+2022-12-15 05:00:35,645 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] EncodingFilter starts
+2022-12-15 05:00:35,646 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request uri --> /null/
+2022-12-15 05:00:35,646 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Request encoding = null, set encoding --> UTF-8
+2022-12-15 05:00:35,646 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-1] Filter finished
+2022-12-15 05:00:36,575 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] EncodingFilter starts
+2022-12-15 05:00:36,575 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request uri --> /null/
+2022-12-15 05:00:36,576 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Request encoding = null, set encoding --> UTF-8
+2022-12-15 05:00:36,576 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-4] Filter finished
+2022-12-15 05:00:49,501 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] EncodingFilter starts
+2022-12-15 05:00:49,502 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request uri --> /null/controller
+2022-12-15 05:00:49,502 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Request encoding = null, set encoding --> UTF-8
+2022-12-15 05:00:49,503 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-5] Filter finished
+2022-12-15 05:00:49,503 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] AccessFilter is starting..
+2022-12-15 05:00:49,503 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] checkAccess...
+2022-12-15 05:00:49,504 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-5] commandName ==> login
+2022-12-15 05:00:49,504 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] this command does not require access
+2022-12-15 05:00:49,504 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-5] access is allowed
+2022-12-15 05:00:49,504 DEBUG c.e.Controller [http-nio-8081-exec-5] Controller#doGet starts
+2022-12-15 05:00:49,505 TRACE c.e.Controller [http-nio-8081-exec-5] command ==> login
+2022-12-15 05:00:49,505 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-5] LoginCommand starts
+2022-12-15 05:00:49,505 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-5] email ==> null
+2022-12-15 05:00:49,505 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-5] password ==> null
+2022-12-15 05:00:49,505 WARN c.e.w.c.LoginCommand [http-nio-8081-exec-5] Login/password cannot be empty
+2022-12-15 05:00:49,505 TRACE c.e.Controller [http-nio-8081-exec-5] address ==> /login.jsp
+2022-12-15 05:00:49,506 DEBUG c.e.Controller [http-nio-8081-exec-5] Controller#doGet finished
+2022-12-15 05:02:33,430 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] EncodingFilter starts
+2022-12-15 05:02:33,431 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request uri --> /null/controller
+2022-12-15 05:02:33,431 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Request encoding = null, set encoding --> UTF-8
+2022-12-15 05:02:33,431 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-7] Filter finished
+2022-12-15 05:02:33,431 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] AccessFilter is starting..
+2022-12-15 05:02:33,431 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] checkAccess...
+2022-12-15 05:02:33,432 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-7] commandName ==> login
+2022-12-15 05:02:33,432 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] this command does not require access
+2022-12-15 05:02:33,432 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-7] access is allowed
+2022-12-15 05:02:33,432 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGPost starts
+2022-12-15 05:02:33,432 TRACE c.e.Controller [http-nio-8081-exec-7] command ==> login
+2022-12-15 05:02:33,432 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-7] LoginCommand starts
+2022-12-15 05:02:33,432 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] email ==> testuser@gmail.com
+2022-12-15 05:02:33,433 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-7] password ==> testpass
+2022-12-15 05:02:33,783 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-7] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 05:02:33,800 DEBUG c.e.Controller [http-nio-8081-exec-7] Controller#doGPost finished
+2022-12-15 05:02:39,014 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] EncodingFilter starts
+2022-12-15 05:02:39,015 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request uri --> /null/controller
+2022-12-15 05:02:39,015 TRACE c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Request encoding = null, set encoding --> UTF-8
+2022-12-15 05:02:39,015 DEBUG c.e.w.f.EncodingFilter [http-nio-8081-exec-9] Filter finished
+2022-12-15 05:02:39,015 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] AccessFilter is starting..
+2022-12-15 05:02:39,015 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] checkAccess...
+2022-12-15 05:02:39,015 TRACE c.e.w.f.AccessFilter [http-nio-8081-exec-9] commandName ==> login
+2022-12-15 05:02:39,016 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] this command does not require access
+2022-12-15 05:02:39,016 DEBUG c.e.w.f.AccessFilter [http-nio-8081-exec-9] access is allowed
+2022-12-15 05:02:39,016 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost starts
+2022-12-15 05:02:39,016 TRACE c.e.Controller [http-nio-8081-exec-9] command ==> login
+2022-12-15 05:02:39,016 DEBUG c.e.w.c.LoginCommand [http-nio-8081-exec-9] LoginCommand starts
+2022-12-15 05:02:39,016 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-9] email ==> testuser@gmail.com
+2022-12-15 05:02:39,016 TRACE c.e.w.c.LoginCommand [http-nio-8081-exec-9] password ==> f
+2022-12-15 05:02:39,033 ERROR c.e.d.i.m.MySqlUserDao [http-nio-8081-exec-9] Can`t find user by email
+java.sql.SQLException: Cannot create PoolableConnectionFactory (Unknown database 'mydb')
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:653) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createDataSource(BasicDataSource.java:532) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.getConnection(BasicDataSource.java:731) ~[tomcat-dbcp.jar:9.0.70]
+	at com.ermanadary.dao.DBManager.getConnection(DBManager.java:40) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.getConnection(MySqlUserDao.java:234) ~[classes/:?]
+	at com.ermanadary.dao.impl.mysql.MySqlUserDao.findUserByEmail(MySqlUserDao.java:66) [classes/:?]
+	at com.ermanadary.web.command.LoginCommand.execute(LoginCommand.java:37) [classes/:?]
+	at com.ermanadary.Controller.doPost(Controller.java:54) [classes/:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:696) [servlet-api.jar:4.0.FR]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:779) [servlet-api.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.AccessFilter.doFilter(AccessFilter.java:54) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) [tomcat-websocket.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at com.ermanadary.web.filter.EncodingFilter.doFilter(EncodingFilter.java:45) [classes/:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) [catalina.jar:9.0.70]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [catalina.jar:9.0.70]
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687) [catalina.jar:9.0.70]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) [catalina.jar:9.0.70]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360) [catalina.jar:9.0.70]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-coyote.jar:9.0.70]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-coyote.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) [tomcat-util.jar:9.0.70]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-util.jar:9.0.70]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.sql.SQLSyntaxErrorException: Unknown database 'mydb'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198) ~[mysql-connector-java-8.0.25.jar:8.0.25]
+	at org.apache.tomcat.dbcp.dbcp2.DriverConnectionFactory.createConnection(DriverConnectionFactory.java:52) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.PoolableConnectionFactory.makeObject(PoolableConnectionFactory.java:415) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.validateConnectionFactory(BasicDataSource.java:111) ~[tomcat-dbcp.jar:9.0.70]
+	at org.apache.tomcat.dbcp.dbcp2.BasicDataSource.createPoolableConnectionFactory(BasicDataSource.java:649) ~[tomcat-dbcp.jar:9.0.70]
+	... 37 more
+2022-12-15 05:02:39,034 DEBUG c.e.Controller [http-nio-8081-exec-9] Controller#doGPost finished
+2022-12-15 05:16:16,629 DEBUG c.e.w.f.EncodingFilter [main] Filter encoding destroy
